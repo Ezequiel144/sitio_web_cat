@@ -127,6 +127,10 @@ footer{
     nav{
         padding-left: 30px;       
     }
+    
+    header{
+        height: 200px;
+    }
 
 
     nav ul a{
