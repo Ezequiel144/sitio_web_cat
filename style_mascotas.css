@@ -147,7 +147,7 @@ footer{
 
     nav ul a{
         padding: 10px;
-        margin-right: 15px;
+        margin-right: 10px;
         text-decoration: none;
         color: rgb(173, 122, 26);
         font-size: 0.9rem;
@@ -173,8 +173,8 @@ footer{
     }
 
     .facebook img,.instagram img,.whatsapp img{
-        height: 40px;
-        margin-left: 15px;
+        height: 38px;
+        margin-left: 10px;
     }
     .info p{
         font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
