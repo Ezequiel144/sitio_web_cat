@@ -1,0 +1,45 @@
+.cuerpo{
+    padding: 10px;
+}
+
+
+
+.noti{
+    padding: 15px;
+}
+
+.noti h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+}
+
+.noti p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.sigui{
+    padding: 20px;
+}
+
+.sigui a{
+    font-size: 2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 93%;
+    text-decoration: none;
+    color: black;
+}
+
+.sigui a:hover{
+    color: rgb(173, 122, 26);
+}
+
+@media (max-width:450px){
+    .cuerpo{
+        padding: 0;
+        width: 100%;
+    }
+    .sigui a{
+        margin-left: 80%;
+    }
+    
+}
